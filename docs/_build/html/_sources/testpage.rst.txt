@@ -2,10 +2,4 @@
 All about me
 ############
 
-I'm Daniele Procida, a Django user and developer.
-
-I've contributed to:
-
-*   django CMS
-*   Arkestra
-*   Django
+Hi, my name is Ken. I like the color blue. It's objectively the coolest color

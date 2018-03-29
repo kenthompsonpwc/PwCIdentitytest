@@ -10,7 +10,7 @@ Welcome to PwC-Identity-Test's documentation!
    :maxdepth: 2
 
    testpage
-
+   testpage2
 
 Indices and tables
 ==================
